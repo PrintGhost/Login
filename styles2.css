@@ -1,0 +1,39 @@
+/* Custom Navbar */
+.navbar {
+    background-color: #f8f9fa;
+}
+
+.nav-link {
+    color: #6c757d !important;
+}
+
+/* Custom Card */
+.custom-card {
+    border: 1px solid #dee2e6;
+}
+
+/* Custom Form */
+.form-label {
+    color: #495057;
+}
+
+/* Custom Button */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+/* Custom Footer */
+.footer {
+    color: #6c757d;
+    background-color: #f8f9fa;
+}
+
+.footer .bi {
+    color: #6c757d;
+}
